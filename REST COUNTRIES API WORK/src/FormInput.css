@@ -1,0 +1,20 @@
+.form-control{
+    width: 500px;
+}
+
+.formInput{
+
+    color: chocolate;
+    /* color: rgb(233, 164, 15); */
+
+}
+
+.mainheading{
+
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: aqua;
+    /* color: rgb(255, 0, 0); */
+
+
+}
